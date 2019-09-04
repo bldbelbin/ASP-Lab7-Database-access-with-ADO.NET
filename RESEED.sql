@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT('StudentCourse', RESEED, 0)
